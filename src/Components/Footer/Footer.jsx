@@ -5,7 +5,8 @@ import { AiOutlineTwitter } from "react-icons/ai";
 import { AiFillYoutube } from "react-icons/ai";
 import { BsPinterest } from "react-icons/bs";
 
-import Logo from "../../assets/Logo.jpg";
+// import Logo from "../../assets/Logo.jpg";
+import Logo from "../../assets/logo.jpg";
 
 import Aos from "aos";
 import "aos/dist/aos.css";
